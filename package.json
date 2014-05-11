@@ -8,7 +8,7 @@
   "src": [
     "http_parser.h",
     "http_parser.c",
-    "LICENSE-MIT",
+    "LICENSE-MIT"
   ]
 }
 
