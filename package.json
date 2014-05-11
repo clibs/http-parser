@@ -2,7 +2,7 @@
   "name": "http-parser",
   "version": "2.3.0",
   "repo": "clibs/http-parser",
-  "description": "http request/response parser for c"
+  "description": "http request/response parser for c",
   "keywords": ["http", "header", "parser"],
   "license": "MIT",
   "src": [
